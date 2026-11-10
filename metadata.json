@@ -1,0 +1,6 @@
+{
+  "name": "Ingénierie Pédagogique Moser - Guide & Export de Séquences",
+  "description": "Plateforme institutionnelle de conception, structuration et export bureautique (Word, Google Docs, Diaporama, QR codes) de séquences pédagogiques conformes PER, CER et IB pour l'École Moser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
